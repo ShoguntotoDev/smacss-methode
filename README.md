@@ -4,7 +4,7 @@ Bienvenue dans le repository du projet SMACSS ! Ce projet propose un site web ba
 
 ## Vidéo de Démonstration
 
-Une vidéo détaillée présentant le fonctionnement et le code de ce projet est disponible sur YouTube : [Apprendre à gérer son CSS : Méthode SMACSS]()
+Une vidéo détaillée présentant le fonctionnement et le code de ce projet est disponible sur YouTube : [Apprendre à gérer son CSS : Méthode SMACSS](https://youtu.be/3e2LmbUp4Y4)
 
 ## Fonctionnalités
 
