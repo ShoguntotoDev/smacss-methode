@@ -1,0 +1,16 @@
+.btn {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+}
+
+.btn:hover,
+.btn:active {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
